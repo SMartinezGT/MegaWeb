@@ -2,4 +2,8 @@ Comando1
 Comando2
 Comando3
 Comando4 desde web
+<<<<<<< HEAD
 Comando5 desde local
+=======
+Comando5 desde web erroneo
+>>>>>>> c8bce54cc9334ef55737bd7e05a94b1a2efac4ae
