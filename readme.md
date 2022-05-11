@@ -1,2 +1,2 @@
 #leeme
-texto original
+versión 1.0
